@@ -5,7 +5,8 @@
 			<package name="com.slokam.automation.opencart.testscripts"></package>
 		</packages> -->
 		<classes>
-			<class name="com.slokam.automation.opencart.testscripts.SampleTest"></class>
+			<class name="com.slokam.automation.opencart.testscripts.Example1"></class>
+			<!-- <class name="com.slokam.automation.opencart.testscripts.SampleTest"></class> -->
 		</classes>
 	</test>
 </suite>
